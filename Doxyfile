@@ -1,0 +1,6 @@
+OUTPUT_LANGUAGE        = Russian
+JAVADOC_AUTOBRIEF      = YES
+HAVE_DOT               = YES
+CALL_GRAPH             = YES
+CALLER_GRAPH           = YES
+DOT_IMAGE_FORMAT       = svg
